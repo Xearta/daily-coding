@@ -4,6 +4,20 @@ This React project was built using Create React App. It's purpose is to ensure t
 
 **This README will be a log of what I do every day**
 
+## Day 4: Started Travel App (10/22/2020)
+
+---
+
+- Started a [Travel Agency App](https://github.com/Xearta/travel-app)
+- Added a log to this site to keep track of progress
+- Starting learning TypeScript
+
+## Day 3: Idle Colors (10/20/2020)
+
+---
+
+- Worked on [Idle Colors](https://github.com/Xearta/idle-colors)
+
 ## Day 2: Started Idle Colors (10/19/2020)
 
 ---
